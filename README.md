@@ -17,7 +17,7 @@ AutoAlloc AI is an agentic workflow designed to automate the approval process fo
 - **Reporting:** FPDF2
 
 ##  Quick Start
-1. Clone the repo: `git clone https://github.com/Oshgupta460/AutoAlloc-AI.git`
+1. Clone the repo: `git clone https://github.com/Oshgupta460/Auto_Alloc_AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your `GROQ_API_KEY` to a `.env` file.
 4. Run the app: `streamlit run app.py`
